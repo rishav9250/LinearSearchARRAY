@@ -1,4 +1,4 @@
-# ArrayBinarySearch
+# ArrayLinearSearch
 In this repository, We were exploring java programs and projects.
 
 public class LENEARSEARCH{
